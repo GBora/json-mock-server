@@ -1,1 +1,1 @@
-json-server db.json
+node index.js
